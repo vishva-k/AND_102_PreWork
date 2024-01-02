@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/9eBFT7V' />
+<img src='[[https://imgur.com/9eBFT7V](https://imgur.com/a/0cSid0P)](https://imgur.com/9eBFT7V)' />
 
 Kap
 GIF created with ...  
