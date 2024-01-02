@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![AND 102 PreWork](https://github.com/vishva-k/AND_102_PreWork/assets/108424734/3afad559-30fd-44d5-96f4-5f35c5b70fc7)
 
-<img src='[[https://imgur.com/9eBFT7V](https://imgur.com/a/0cSid0P)](https://imgur.com/9eBFT7V)' />
-<img src='https://imgur.com/aLqBYVn' />
+
 https://imgur.com/a/0cSid0P
 
 GIF created with Kap
